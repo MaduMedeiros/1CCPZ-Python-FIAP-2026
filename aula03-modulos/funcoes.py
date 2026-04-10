@@ -3,7 +3,7 @@ from mypyc.ir.func_ir import num_bitmap_args
 
 def print_lyrics():
     print("I ain't gonna live live forever")
-    print("I just wnna live while I'm alive")
+    print("I just wanna live while I'm alive")
     print("It's my life")
 
 print_lyrics()
