@@ -9,7 +9,7 @@
 #     print(i)
 #     i -= 1
 #
-# #rep com entrada do usuário
+# #rep com entrada do usuario
 # jogar = "Sim"
 #
 # while jogar.lower() == "sim"
